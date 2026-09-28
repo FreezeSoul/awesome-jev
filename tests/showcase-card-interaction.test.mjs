@@ -84,6 +84,16 @@ test('showcase renders the current filter as an h2 heading', () => {
   assert.match(readFileSync(categoryPath, 'utf8'), /<h2 class="showcase-filter-heading">Games<\/h2>/);
 });
 
+test('showcase omits recency filter links whose counts are zero', () => {
+  const outputPath = new URL('../dist/client/showcase/index.html', import.meta.url);
+
+  assert.ok(existsSync(outputPath), 'showcase build output should exist');
+  const html = readFileSync(outputPath, 'utf8');
+
+  assert.doesNotMatch(html, /<a[^>]+href="\/showcase\/today\/"/);
+  assert.doesNotMatch(html, /<a[^>]+href="\/showcase\/this-week\/"/);
+});
+
 test('showcase initializes its dialog from a template only after interaction', () => {
   const outputPath = new URL('../dist/client/showcase/index.html', import.meta.url);
 

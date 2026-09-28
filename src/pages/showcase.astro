@@ -161,6 +161,9 @@ const showcaseStats = getShowcaseStats(manifest.videos, {
   weekStartsOn: catalogStats.weekStartsOn,
   updatedAt: manifest.updatedAt,
 });
+const hasAddedToday = showcaseStats.addedToday > 0;
+const hasAddedThisWeek = showcaseStats.addedThisWeek > 0;
+const hasRecencyFilters = hasAddedToday || hasAddedThisWeek;
 const earliestPublishedAt = localizedVideos.reduce(
   (earliest, video) => !earliest || video.publishedAt < earliest ? video.publishedAt : earliest,
   '',
@@ -334,14 +337,20 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
         <SiteHero title={heroTitle} summary={heroSummary} id="showcase" titleId="showcase-title" className="showcase-hero" filtered={activeFilter.type !== 'all'}>
           <Fragment slot="copy-extra">
             <div class="hero-updated"><span>{messages.hero.lastUpdated}</span><time datetime={showcaseStats.updatedAt}>{formattedUpdatedAt}</time></div>
-            <div class="recency-filters" role="group" aria-label={copy.filtersLabel}>
-              <a href={`${base}${showcasePath(locale, 'today')}`} aria-current={activeRecency === 'today' ? 'page' : undefined}>
-                <span>{messages.hero.addedToday}</span><strong>+{showcaseStats.addedToday}</strong>
-              </a>
-              <a href={`${base}${showcasePath(locale, 'this-week')}`} aria-current={activeRecency === 'this-week' ? 'page' : undefined}>
-                <span>{messages.hero.addedThisWeek}</span><strong>+{showcaseStats.addedThisWeek}</strong>
-              </a>
-            </div>
+            {hasRecencyFilters && (
+              <div class="recency-filters" role="group" aria-label={copy.filtersLabel}>
+                {hasAddedToday && (
+                  <a href={`${base}${showcasePath(locale, 'today')}`} aria-current={activeRecency === 'today' ? 'page' : undefined}>
+                    <span>{messages.hero.addedToday}</span><strong>+{showcaseStats.addedToday}</strong>
+                  </a>
+                )}
+                {hasAddedThisWeek && (
+                  <a href={`${base}${showcasePath(locale, 'this-week')}`} aria-current={activeRecency === 'this-week' ? 'page' : undefined}>
+                    <span>{messages.hero.addedThisWeek}</span><strong>+{showcaseStats.addedThisWeek}</strong>
+                  </a>
+                )}
+              </div>
+            )}
             <SearchFilterPanel searchId="showcase-search" placeholder={copy.searchPlaceholder} hasAction>
               <div class="language-picker" data-showcase-category-picker slot="picker">
                 <button class="language-trigger" id="showcase-category-filter" type="button" aria-label={copy.filterCategory} aria-haspopup="listbox" aria-expanded="false" aria-controls="showcase-category-options">
@@ -378,15 +387,23 @@ const structuredDataJson = JSON.stringify(structuredData).replace(/</g, '\\u003c
               <span>{copy.all}</span><b>{manifest.videos.length}</b>
             </a>
             <span class="filter-divider" aria-hidden="true"></span>
-            <div class="recency-filters catalog-recency-filters">
-              <a href={`${base}${showcasePath(locale, 'today')}`} aria-current={activeRecency === 'today' ? 'page' : undefined}>
-                <span>{messages.hero.addedToday}</span><strong>+{showcaseStats.addedToday}</strong>
-              </a>
-              <a href={`${base}${showcasePath(locale, 'this-week')}`} aria-current={activeRecency === 'this-week' ? 'page' : undefined}>
-                <span>{messages.hero.addedThisWeek}</span><strong>+{showcaseStats.addedThisWeek}</strong>
-              </a>
-            </div>
-            <span class="filter-divider" aria-hidden="true"></span>
+            {hasRecencyFilters && (
+              <>
+                <div class="recency-filters catalog-recency-filters">
+                  {hasAddedToday && (
+                    <a href={`${base}${showcasePath(locale, 'today')}`} aria-current={activeRecency === 'today' ? 'page' : undefined}>
+                      <span>{messages.hero.addedToday}</span><strong>+{showcaseStats.addedToday}</strong>
+                    </a>
+                  )}
+                  {hasAddedThisWeek && (
+                    <a href={`${base}${showcasePath(locale, 'this-week')}`} aria-current={activeRecency === 'this-week' ? 'page' : undefined}>
+                      <span>{messages.hero.addedThisWeek}</span><strong>+{showcaseStats.addedThisWeek}</strong>
+                    </a>
+                  )}
+                </div>
+                <span class="filter-divider" aria-hidden="true"></span>
+              </>
+            )}
             {sidebarShowcaseCategories.map((category) => (
               <a
                 class:list={['category-button', activeCategoryId === category.id && 'selected']}
