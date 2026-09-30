@@ -9,7 +9,7 @@ const outputPath = resolve(root, 'src/data/catalog-added-at.json');
 const normalizeUrl = (url) => url.toLowerCase().replace(/\.git\/?$/, '').replace(/\/$/, '');
 
 function catalogUrls(markdown) {
-  const headings = [...markdown.matchAll(/^### (.+?)(?: \((\d+)\)|（(\d+)）)$/gm)].slice(0, 10);
+  const headings = [...markdown.matchAll(/^### (.+?)(?: \((\d+)\)|（(\d+)）)$/gm)].slice(0, 11);
   return headings.flatMap((heading) => {
     const start = heading.index ?? 0;
     const headingEnd = start + heading[0].length;
