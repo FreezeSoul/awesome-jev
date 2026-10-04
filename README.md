@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 980 verified open-source projects across 11 categories" width="100%"></a>
+  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 981 verified open-source projects across 11 categories" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verified_projects-980-1e63ff?style=flat-square" alt="980 verified projects">
+  <img src="https://img.shields.io/badge/verified_projects-981-1e63ff?style=flat-square" alt="981 verified projects">
   <img src="https://img.shields.io/badge/categories-11-111111?style=flat-square" alt="11 categories">
   <img src="https://img.shields.io/badge/languages-29-676767?style=flat-square" alt="29 languages">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1e63ff?style=flat-square" alt="License: MIT"></a>
@@ -25,7 +25,7 @@
 
 ## About Awesome Jev
 
-Awesome Jev is an independent, community-maintained catalog of **980 open-source projects** built with [Jev](https://typesafe.ai/), TypeSafe AI's System One model for typed decisions inside software. It is not affiliated with or endorsed by TypeSafe AI.
+Awesome Jev is an independent, community-maintained catalog of **981 open-source projects** built with [Jev](https://typesafe.ai/), TypeSafe AI's System One model for typed decisions inside software. It is not affiliated with or endorsed by TypeSafe AI.
 
 > **What makes this catalog useful?**
 >
@@ -39,25 +39,25 @@ Awesome Jev is an independent, community-maintained catalog of **980 open-source
 - 🧩 [Frameworks & integrations](#frameworks-integrations-88) — **88**
 - 🤖 [Agent tooling](#agent-tooling-236) — **236**
 - 🖥️ [Browser & computer use](#browser-computer-use-77) — **77**
-- 🪟 [Applications](#applications-133) — **133**
+- 🪟 [Applications](#applications-134) — **134**
 - 🎮 [Games & simulations](#games-simulations-73) — **73**
 - 🧪 [Demos & playgrounds](#demos-playgrounds-66) — **66**
 - 📊 [Benchmarks & research](#benchmarks-research-116) — **116**
 - 📚 [Other lists](#other-lists-42) — **42**
 
-This README is a dated snapshot of **980 unique public GitHub repositories**. Stars were captured on **2026-09-18–2026-10-04** for discovery, not ranking; verify current behavior, activity, and licensing upstream.
+This README is a dated snapshot of **981 unique public GitHub repositories**. Stars were captured on **2026-09-18–2026-10-04** for discovery, not ranking; verify current behavior, activity, and licensing upstream.
 
 ## Added today
 
 <details open>
-<summary><strong>18 projects added on October 4, 2026</strong></summary>
+<summary><strong>19 projects added on October 4, 2026</strong></summary>
 
 - **SDKs & clients (1):** [jev (stefafafan)](https://github.com/stefafafan/jev)
 - **Jev-like models (3):** [gutsy](https://github.com/kouhxp/gutsy), [Vev](https://github.com/Xiaooolong/vev), [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)
 - **Frameworks & integrations (6):** [JEV Sees](https://github.com/CharlesFeng0314/JEV_sees), [jev4pg](https://github.com/Sheltercosmo/jev4pg), [laya-php](https://github.com/marcreichel/laya-php), [Gut Check](https://github.com/funkadelic/ha-gutcheck), [Cribrix](https://github.com/david96182/cribrix), [JEV Book Tags](https://github.com/iamjonatha/jev-book-tags)
 - **Agent tooling (4):** [deepseek-harness-jev](https://github.com/luobosibing2/dsh-jev-plugin), [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate), [Jev Decision Gate](https://github.com/f-tiger/jev-decision-gate), [Immune](https://github.com/schwarzschlyle/immune)
 - **Browser & computer use (1):** [Sedum](https://github.com/sedum-dev/sedum)
-- **Applications (2):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span)
+- **Applications (3):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span), [jev-seo](https://github.com/DeployMates/jev-seo)
 - **Other lists (1):** [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)
 
 </details>
@@ -644,7 +644,7 @@ This README is a dated snapshot of **980 unique public GitHub repositories**. St
 | [sloppy-jevs-extension](https://github.com/neddes/sloppy-jevs-extension) | ★ 0 | JavaScript | 2026-09-19 | Open-source Chrome extension that filters AI-generated prose and ads with Jev. |
 | [sift](https://github.com/tylergibbs1/sift) | ★ 0 | TypeScript | 2026-09-19 | Chrome extension that re-ranks Google results with TypeSafe Jev and folds away sales pages and SEO filler. |
 
-### Applications (133)
+### Applications (134)
 
 | Project | Stars | Language | Added | Description |
 |---|---:|---|---|---|
@@ -781,6 +781,7 @@ This README is a dated snapshot of **980 unique public GitHub repositories**. St
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | A janitor for markdown vaults powered by TypeSafe Jev: Jev votes on each note, your code files it, you review the low-confidence pile. |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | Classify an artist's discography by theme, mood, and lyrical complexity with Jev (TypeSafe AI), and view it as a colorful terminal dashboard |
 | [1 Million Emojis](https://github.com/cwdx/1-million-emojis) | ★ 0 | TypeScript | 2026-09-30 | Shared emoji canvas where Jev chooses which emoji and square to paint next and judges whether to finish the visitor's stroke. |
+| [jev-seo](https://github.com/DeployMates/jev-seo) | ★ 0 | TypeScript | 2026-10-04 | Website audit tool where Jev judges page intent, content quality, and citability using typed questions; source is public but UNLICENSED, with all rights reserved. |
 
 ### Games & simulations (73)
 

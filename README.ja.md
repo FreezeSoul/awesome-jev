@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 980 verified open-source projects across 11 categories" width="100%"></a>
+  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 981 verified open-source projects across 11 categories" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verified_projects-980-1e63ff?style=flat-square" alt="980 verified projects">
+  <img src="https://img.shields.io/badge/verified_projects-981-1e63ff?style=flat-square" alt="981 verified projects">
   <img src="https://img.shields.io/badge/categories-11-111111?style=flat-square" alt="11 categories">
   <img src="https://img.shields.io/badge/languages-29-676767?style=flat-square" alt="29 languages">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1e63ff?style=flat-square" alt="License: MIT"></a>
@@ -25,7 +25,7 @@
 
 ## Awesome Jevについて
 
-Awesome Jevは独立したコミュニティ維持されたカタログです **980 オープンソースプロジェクト** 組み込み [ジェヴ](https://typesafe.ai/)、タイプ安全AIのシステム ソフトウェア内部の決定を一式化するためのモデル。 TypeSafe AIに所属、または支持されることはありません。
+Awesome Jevは独立したコミュニティ維持されたカタログです **981 オープンソースプロジェクト** 組み込み [ジェヴ](https://typesafe.ai/)、タイプ安全AIのシステム ソフトウェア内部の決定を一式化するためのモデル。 TypeSafe AIに所属、または支持されることはありません。
 
 > **このカタログは役に立ちますか?**
 >
@@ -39,25 +39,25 @@ Awesome Jevは独立したコミュニティ維持されたカタログです **
 - 🧩 [フレームワークと統合](#フレームワークと統合-88) — **88**
 - 🤖 [エージェントツーリング](#エージェントツーリング-236) — **236**
 - 🖥️ [ブラウザとコンピュータの使用](#ブラウザとコンピュータの使用-77) — **77**
-- 🪟 [アプリケーション](#アプリケーション-133) — **133**
+- 🪟 [アプリケーション](#アプリケーション-134) — **134**
 - 🎮 [ゲームとシミュレーション](#ゲームシミュレーション-73) — **73**
 - 🧪 [デモとプレイグラウンド](#デモ遊び場-66) — **66**
 - 📊 [ベンチマーク & 研究](#ベンチマーク-研究-116) — **116**
 - 📚 [その他のリスト](#その他のリスト-42) — **42**
 
-このREADMEは日付スナップショットです **980 独自の公開 GitHub リポジトリ**お問い合わせ 星が撮影されました **2026年9月18日～10月4日** 発見のため、ランキングではなく、現在の行動、活動、ライセンスアップストリームを検証します。
+このREADMEは日付スナップショットです **981 独自の公開 GitHub リポジトリ**お問い合わせ 星が撮影されました **2026年9月18日～10月4日** 発見のため、ランキングではなく、現在の行動、活動、ライセンスアップストリームを検証します。
 
 ## 今日追加
 
 <details open>
-<summary><strong>2026年10月4日に追加された18件</strong></summary>
+<summary><strong>2026年10月4日に追加された19件</strong></summary>
 
 - **SDK & クライアント (1):** [jev (stefafafan)](https://github.com/stefafafan/jev)
 - **Jev-likeモデル (3):** [gutsy](https://github.com/kouhxp/gutsy), [Vev](https://github.com/Xiaooolong/vev), [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)
 - **フレームワークと統合 (6):** [JEV Sees](https://github.com/CharlesFeng0314/JEV_sees), [jev4pg](https://github.com/Sheltercosmo/jev4pg), [laya-php](https://github.com/marcreichel/laya-php), [Gut Check](https://github.com/funkadelic/ha-gutcheck), [Cribrix](https://github.com/david96182/cribrix), [JEV Book Tags](https://github.com/iamjonatha/jev-book-tags)
 - **エージェントツーリング (4):** [deepseek-harness-jev](https://github.com/luobosibing2/dsh-jev-plugin), [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate), [Jev Decision Gate](https://github.com/f-tiger/jev-decision-gate), [Immune](https://github.com/schwarzschlyle/immune)
 - **ブラウザとコンピュータの使用 (1):** [Sedum](https://github.com/sedum-dev/sedum)
-- **アプリケーション (2):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span)
+- **アプリケーション (3):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span), [jev-seo](https://github.com/DeployMates/jev-seo)
 - **その他のリスト (1):** [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)
 
 </details>
@@ -644,7 +644,7 @@ Awesome Jevは独立したコミュニティ維持されたカタログです **
 | [sloppy-jevs-extension](https://github.com/neddes/sloppy-jevs-extension) | ★ 0 | JavaScript | 2026-09-19 | オープンソースのChrome拡張機能により、AIが生成したプロースと広告をJevでフィルタリングします。 |
 | [sift](https://github.com/tylergibbs1/sift) | ★ 0 | TypeScript | 2026-09-19 | 再ランクするChrome拡張 TypeSafe Jev で Google 結果を取得し、販売ページと SEO フィラーを折ります。 |
 
-### アプリケーション (133)
+### アプリケーション (134)
 
 | プロジェクト | Stars | 言語 | 収録日 | 説明 |
 |---|---:|---|---|---|
@@ -781,6 +781,7 @@ Awesome Jevは独立したコミュニティ維持されたカタログです **
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | TypeSafe を利用した Markdown Vault の管理者 Jev: Jev が各メモに投票し、コードがそれをファイルし、あなたが信頼性の低い山をレビューします。 |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | Jev (TypeSafe AI) を使用してアーティストのディスコグラフィーをテーマ、雰囲気、歌詞の複雑さによって分類し、カラフルなターミナル ダッシュボードとして表示します |
 | [1 Million Emojis](https://github.com/cwdx/1-million-emojis) | ★ 0 | TypeScript | 2026-09-30 | 共有 emoji キャンバスで、Jev が次に描く emoji とマスを選び、訪問者のストロークを完成させるか判断する。 |
+| [jev-seo](https://github.com/DeployMates/jev-seo) | ★ 0 | TypeScript | 2026-10-04 | Jev の型付き質問でページの意図、品質、引用適性を判定するサイト監査ツール。ソースは公開されているが UNLICENSED で、全権利を留保。 |
 
 ### ゲーム&シミュレーション (73)
 

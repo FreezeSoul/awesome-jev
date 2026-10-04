@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 980 verified open-source projects across 11 categories" width="100%"></a>
+  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 981 verified open-source projects across 11 categories" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verified_projects-980-1e63ff?style=flat-square" alt="980 verified projects">
+  <img src="https://img.shields.io/badge/verified_projects-981-1e63ff?style=flat-square" alt="981 verified projects">
   <img src="https://img.shields.io/badge/categories-11-111111?style=flat-square" alt="11 categories">
   <img src="https://img.shields.io/badge/languages-29-676767?style=flat-square" alt="29 languages">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1e63ff?style=flat-square" alt="License: MIT"></a>
@@ -25,7 +25,7 @@
 
 ## Acerca de Awesome Jev
 
-Impresionante Jev es un catálogo independiente, mantenido por la comunidad **980 proyectos de código abierto** construido con [Jev](https://typesafe.ai/), sistema de tipoSafe AI Un modelo para decisiones tipo dentro del software. No está afiliada o respaldada por TypeSafe AI.
+Impresionante Jev es un catálogo independiente, mantenido por la comunidad **981 proyectos de código abierto** construido con [Jev](https://typesafe.ai/), sistema de tipoSafe AI Un modelo para decisiones tipo dentro del software. No está afiliada o respaldada por TypeSafe AI.
 
 > **¿Qué hace útil este catálogo?**
 >
@@ -39,25 +39,25 @@ Impresionante Jev es un catálogo independiente, mantenido por la comunidad **98
 - 🧩 [Marcos e integraciones](#marcos-e-integraciones-88) — **88**
 - 🤖 [Agente herramienta](#agente-herramienta-236) — **236**
 - 🖥️ [Uso del navegador](#uso-del-navegador-77) — **77**
-- 🪟 [Aplicaciones](#aplicaciones-133) — **133**
+- 🪟 [Aplicaciones](#aplicaciones-134) — **134**
 - 🎮 [Juegos y simulaciones](#juegos-simulaciones-73) — **73**
 - 🧪 [Demos y entornos de prueba](#demos-parques-infantiles-66) — **66**
 - 📊 [Criterios de investigación](#criterios-de-investigación-116) — **116**
 - 📚 [Otras listas](#otras-listas-42) — **42**
 
-Este README es una instantánea fechada **980 repositorios públicos únicos GitHub**. Las estrellas fueron capturadas **2026-09-18–2026-10-04** para el descubrimiento, no clasificación; verificar el comportamiento actual, la actividad y la concesión de licencias aguas arriba.
+Este README es una instantánea fechada **981 repositorios públicos únicos GitHub**. Las estrellas fueron capturadas **2026-09-18–2026-10-04** para el descubrimiento, no clasificación; verificar el comportamiento actual, la actividad y la concesión de licencias aguas arriba.
 
 ## Hoy
 
 <details open>
-<summary><strong>18 proyectos añadidos el 4 de octubre de 2026</strong></summary>
+<summary><strong>19 proyectos añadidos el 4 de octubre de 2026</strong></summary>
 
 - **SDKs &amp; clientes (1):** [jev (stefafafan)](https://github.com/stefafafan/jev)
 - **Modelos Jev-like (3):** [gutsy](https://github.com/kouhxp/gutsy), [Vev](https://github.com/Xiaooolong/vev), [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)
 - **Marcos e integraciones (6):** [JEV Sees](https://github.com/CharlesFeng0314/JEV_sees), [jev4pg](https://github.com/Sheltercosmo/jev4pg), [laya-php](https://github.com/marcreichel/laya-php), [Gut Check](https://github.com/funkadelic/ha-gutcheck), [Cribrix](https://github.com/david96182/cribrix), [JEV Book Tags](https://github.com/iamjonatha/jev-book-tags)
 - **Agente herramienta (4):** [deepseek-harness-jev](https://github.com/luobosibing2/dsh-jev-plugin), [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate), [Jev Decision Gate](https://github.com/f-tiger/jev-decision-gate), [Immune](https://github.com/schwarzschlyle/immune)
 - **Uso del navegador (1):** [Sedum](https://github.com/sedum-dev/sedum)
-- **Aplicaciones (2):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span)
+- **Aplicaciones (3):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span), [jev-seo](https://github.com/DeployMates/jev-seo)
 - **Otras listas (1):** [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)
 
 </details>
@@ -644,7 +644,7 @@ Este README es una instantánea fechada **980 repositorios públicos únicos Git
 | [sloppy-jevs-extension](https://github.com/neddes/sloppy-jevs-extension) | ★ 0 | JavaScript | 2026-09-19 | Extensión Chrome de código abierto que filtra la prosa generada por AI y anuncios con Jev. |
 | [sift](https://github.com/tylergibbs1/sift) | ★ 0 | TypeScript | 2026-09-19 | Ampliación de Chrome que re-ranks Google resultados con TipoSafe Jev y dobla las páginas de ventas y relleno SEO. |
 
-### Aplicaciones (133)
+### Aplicaciones (134)
 
 | Proyecto | Stars | Lenguaje | Añadido | Descripción |
 |---|---:|---|---|---|
@@ -781,6 +781,7 @@ Este README es una instantánea fechada **980 repositorios públicos únicos Git
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | Un conserje para bóvedas de rebajas con tecnología de TypeSafe Jev: Jev vota en cada nota, su código la archiva y usted revisa la pila de baja confianza. |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | Clasifique la discografía de un artista por tema, estado de ánimo y complejidad lírica con Jev (TypeSafe AI) y visualícela como un panel de terminal colorido. |
 | [1 Million Emojis](https://github.com/cwdx/1-million-emojis) | ★ 0 | TypeScript | 2026-09-30 | Lienzo compartido de emojis donde Jev elige qué emoji y casilla pintar después y decide si completar el trazo del visitante. |
+| [jev-seo](https://github.com/DeployMates/jev-seo) | ★ 0 | TypeScript | 2026-10-04 | Herramienta de auditoría web donde Jev evalúa intención, calidad y citabilidad mediante preguntas tipadas; código público pero UNLICENSED, con todos los derechos reservados. |
 
 ### Juegos &quot; simulaciones (73)
 

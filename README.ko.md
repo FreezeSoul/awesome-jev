@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 980 verified open-source projects across 11 categories" width="100%"></a>
+  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev — 981 verified open-source projects across 11 categories" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verified_projects-980-1e63ff?style=flat-square" alt="980 verified projects">
+  <img src="https://img.shields.io/badge/verified_projects-981-1e63ff?style=flat-square" alt="981 verified projects">
   <img src="https://img.shields.io/badge/categories-11-111111?style=flat-square" alt="11 categories">
   <img src="https://img.shields.io/badge/languages-29-676767?style=flat-square" alt="29 languages">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1e63ff?style=flat-square" alt="License: MIT"></a>
@@ -25,7 +25,7 @@
 
 ## 최고 Jev
 
-최고 Jev는 독립적 인 커뮤니티 기반 카탈로그입니다. **980 오픈 소스 프로젝트** 내장형 [뚱 베어](https://typesafe.ai/)TypeSafe AI 시스템 소프트웨어 내부 결정을위한 하나의 모델. TypeSafe AI에 의해 제휴 또는 승인되지 않습니다.
+최고 Jev는 독립적 인 커뮤니티 기반 카탈로그입니다. **981 오픈 소스 프로젝트** 내장형 [뚱 베어](https://typesafe.ai/)TypeSafe AI 시스템 소프트웨어 내부 결정을위한 하나의 모델. TypeSafe AI에 의해 제휴 또는 승인되지 않습니다.
 
 > **이 카탈로그는 유용합니까?**
 >
@@ -39,25 +39,25 @@
 - 🧩 [프레임워크 및 통합](#frameworks-및-통합-88) — **88**
 - 🤖 [에이전트 도구](#에이전트-툴링-236) — **236**
 - 🖥️ [브라우저 및 컴퓨터 사용](#브라우저-및-컴퓨터-사용-77) — **77**
-- 🪟 [애플리케이션](#애플리케이션-133) — **133**
+- 🪟 [애플리케이션](#애플리케이션-134) — **134**
 - 🎮 [게임 및 시뮬레이션](#게임-및-시뮬레이션-73) — **73**
 - 🧪 [데모 및 플레이그라운드](#데모-및-놀이터-66) — **66**
 - 📊 [벤치마크 및 연구](#벤치-마크-연구-116) — **116**
 - 📚 [기타 목록](#기타-목록-42) — **42**
 
-이 README는 날짜 스냅 샷입니다. **980 고유의 공개 GitHub 저장소**· 별이 캡처되었습니다. **2026-09-18–2026-10-04** 발견을 위해, 순위가 아닙니다; 현재 행동, 활동 및 라이센스 업스트림을 확인합니다.
+이 README는 날짜 스냅 샷입니다. **981 고유의 공개 GitHub 저장소**· 별이 캡처되었습니다. **2026-09-18–2026-10-04** 발견을 위해, 순위가 아닙니다; 현재 행동, 활동 및 라이센스 업스트림을 확인합니다.
 
 ## 오늘 추가
 
 <details open>
-<summary><strong>2026년 10월 4일에 추가된 프로젝트 18개</strong></summary>
+<summary><strong>2026년 10월 4일에 추가된 프로젝트 19개</strong></summary>
 
 - **SDK 및 클라이언트 (1):** [jev (stefafafan)](https://github.com/stefafafan/jev)
 - **Jev-like 모델 (3):** [gutsy](https://github.com/kouhxp/gutsy), [Vev](https://github.com/Xiaooolong/vev), [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)
 - **Frameworks 및 통합 (6):** [JEV Sees](https://github.com/CharlesFeng0314/JEV_sees), [jev4pg](https://github.com/Sheltercosmo/jev4pg), [laya-php](https://github.com/marcreichel/laya-php), [Gut Check](https://github.com/funkadelic/ha-gutcheck), [Cribrix](https://github.com/david96182/cribrix), [JEV Book Tags](https://github.com/iamjonatha/jev-book-tags)
 - **에이전트 툴링 (4):** [deepseek-harness-jev](https://github.com/luobosibing2/dsh-jev-plugin), [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate), [Jev Decision Gate](https://github.com/f-tiger/jev-decision-gate), [Immune](https://github.com/schwarzschlyle/immune)
 - **브라우저 및 컴퓨터 사용 (1):** [Sedum](https://github.com/sedum-dev/sedum)
-- **애플리케이션 (2):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span)
+- **애플리케이션 (3):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span), [jev-seo](https://github.com/DeployMates/jev-seo)
 - **기타 목록 (1):** [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)
 
 </details>
@@ -644,7 +644,7 @@
 | [sloppy-jevs-extension](https://github.com/neddes/sloppy-jevs-extension) | ★ 0 | JavaScript | 2026-09-19 | Open-source Chrome extension that filter AI-generated prose and ads with Jev. |
 | [sift](https://github.com/tylergibbs1/sift) | ★ 0 | TypeScript | 2026-09-19 | Chrome 확장 가능 TypeSafe Jev와 Google 결과 판매 페이지와 SEO 필러를 접습니다. |
 
-### 애플리케이션 (133)
+### 애플리케이션 (134)
 
 | 프로젝트 | Stars | 언어 | 등록일 | 설명 |
 |---|---:|---|---|---|
@@ -781,6 +781,7 @@
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | TypeSafe Jev가 제공하는 마크다운 저장소 관리인: Jev는 각 메모에 투표하고, 코드로 파일을 저장하고, 신뢰도가 낮은 더미를 검토합니다. |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | Jev(TypeSafe AI)를 사용하여 아티스트의 음반을 테마, 분위기, 서정적 복잡성별로 분류하고 다채로운 터미널 대시보드로 봅니다. |
 | [1 Million Emojis](https://github.com/cwdx/1-million-emojis) | ★ 0 | TypeScript | 2026-09-30 | 공유 이모지 캔버스에서 Jev가 다음에 그릴 이모지와 칸을 선택하고 방문자의 획을 완성할지 판단합니다. |
+| [jev-seo](https://github.com/DeployMates/jev-seo) | ★ 0 | TypeScript | 2026-10-04 | Jev의 타입 질문으로 페이지 의도, 콘텐츠 품질, 인용 적합성을 판단하는 웹사이트 감사 도구. 소스는 공개되어 있으나 UNLICENSED이며 모든 권리는 유보된다. |
 
 ### 게임 및 시뮬레이션 (73)
 

@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev：11 个分类、980 个经过核验的开源项目" width="100%"></a>
+  <a href="https://jevbest.com"><img src="public/readme/awesome-jev-hero.png" alt="Awesome Jev：11 个分类、981 个经过核验的开源项目" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/verified_projects-980-1e63ff?style=flat-square" alt="980 个经过核验的项目">
+  <img src="https://img.shields.io/badge/verified_projects-981-1e63ff?style=flat-square" alt="981 个经过核验的项目">
   <img src="https://img.shields.io/badge/categories-11-111111?style=flat-square" alt="11 个分类">
   <img src="https://img.shields.io/badge/languages-29-676767?style=flat-square" alt="29 种语言">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1e63ff?style=flat-square" alt="许可证：MIT"></a>
@@ -25,7 +25,7 @@
 
 ## 关于 Awesome Jev
 
-Awesome Jev 是一份由社区独立维护、以公开依据为基础的项目目录，收录了 **980 个使用 [Jev](https://typesafe.ai/) 构建的开源项目**。Jev 是 TypeSafe AI 面向软件类型化决策的 System One 模型。本项目与 TypeSafe AI 无隶属关系，也未获得其官方背书。
+Awesome Jev 是一份由社区独立维护、以公开依据为基础的项目目录，收录了 **981 个使用 [Jev](https://typesafe.ai/) 构建的开源项目**。Jev 是 TypeSafe AI 面向软件类型化决策的 System One 模型。本项目与 TypeSafe AI 无隶属关系，也未获得其官方背书。
 
 > **这份目录有什么不同？**
 >
@@ -39,25 +39,25 @@ Awesome Jev 是一份由社区独立维护、以公开依据为基础的项目�
 - 🧩 [框架与集成](#框架与集成-88) — **88**
 - 🤖 [Agent 工具](#agent-工具-236) — **236**
 - 🖥️ [浏览器与计算机操作](#浏览器与计算机操作-77) — **77**
-- 🪟 [应用](#应用-133) — **133**
+- 🪟 [应用](#应用-134) — **134**
 - 🎮 [游戏与模拟](#游戏与模拟-73) — **73**
 - 🧪 [演示与试验场](#演示与试验场-66) — **66**
 - 📊 [基准测试与研究](#基准测试与研究-116) — **116**
 - 📚 [其他列表](#其他列表-42) — **42**
 
-本 README 是一份带日期的完整快照，收录 **980 个公开 GitHub 仓库**。Star 数采集于 **2026 年 9 月 18 日至 10 月 4 日**，仅用于帮助发现项目，不代表质量排名；使用前请到原仓库确认实际行为、活跃度和许可证。
+本 README 是一份带日期的完整快照，收录 **981 个公开 GitHub 仓库**。Star 数采集于 **2026 年 9 月 18 日至 10 月 4 日**，仅用于帮助发现项目，不代表质量排名；使用前请到原仓库确认实际行为、活跃度和许可证。
 
 ## 今日新增
 
 <details open>
-<summary><strong>2026 年 10 月 4 日新增 18 个项目</strong></summary>
+<summary><strong>2026 年 10 月 4 日新增 19 个项目</strong></summary>
 
 - **SDK 与客户端 (1):** [jev (stefafafan)](https://github.com/stefafafan/jev)
 - **Jev-like 模型 (3):** [gutsy](https://github.com/kouhxp/gutsy), [Vev](https://github.com/Xiaooolong/vev), [WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep)
 - **框架与集成 (6):** [JEV Sees](https://github.com/CharlesFeng0314/JEV_sees), [jev4pg](https://github.com/Sheltercosmo/jev4pg), [laya-php](https://github.com/marcreichel/laya-php), [Gut Check](https://github.com/funkadelic/ha-gutcheck), [Cribrix](https://github.com/david96182/cribrix), [JEV Book Tags](https://github.com/iamjonatha/jev-book-tags)
 - **Agent 工具 (4):** [deepseek-harness-jev](https://github.com/luobosibing2/dsh-jev-plugin), [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate), [Jev Decision Gate](https://github.com/f-tiger/jev-decision-gate), [Immune](https://github.com/schwarzschlyle/immune)
 - **浏览器与计算机操作 (1):** [Sedum](https://github.com/sedum-dev/sedum)
-- **应用 (2):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span)
+- **应用 (3):** [Jev LinkedIn Saved Classifier](https://github.com/kraayenjon/jev-linkedin-saved-classifier), [JevSpan](https://github.com/lzq-0529/jev-span), [jev-seo](https://github.com/DeployMates/jev-seo)
 - **其他列表 (1):** [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts)
 
 </details>
@@ -644,7 +644,7 @@ Awesome Jev 是一份由社区独立维护、以公开依据为基础的项目�
 | [sloppy-jevs-extension](https://github.com/neddes/sloppy-jevs-extension) | ★ 0 | JavaScript | 2026-09-19 | 开源 Chrome 扩展，使用 Jev 过滤 AI 生成文本和广告。 |
 | [sift](https://github.com/tylergibbs1/sift) | ★ 0 | TypeScript | 2026-09-19 | Chrome 扩展，使用 TypeSafe Jev 重排 Google 搜索结果并折叠销售页面与 SEO 填充内容。 |
 
-### 应用   (133)
+### 应用   (134)
 
 | 项目名 | Stars | 语言 | 收录时间 | 描述 |
 |---|---:|---|---|---|
@@ -781,6 +781,7 @@ Awesome Jev 是一份由社区独立维护、以公开依据为基础的项目�
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | 由 TypeSafe Jev 提供支持的 Markdown 金库管理员：Jev 对每个注释进行投票，您的代码将其归档，您可以查看低置信度的一堆注释。 |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | 使用 Jev (TypeSafe AI) 按主题、情绪和抒情复杂性对艺术家的唱片进行分类，并将其视为彩色终端仪表板 |
 | [1 Million Emojis](https://github.com/cwdx/1-million-emojis) | ★ 0 | TypeScript | 2026-09-30 | 共享 emoji 画布，Jev 选择下一步绘制的 emoji 和方格，并判断是否应补完访客的笔画。 |
+| [jev-seo](https://github.com/DeployMates/jev-seo) | ★ 0 | TypeScript | 2026-10-04 | 网站审计工具，用 Jev 类型化问题判断页面意图、内容质量和可引用性；源码公开但为 UNLICENSED，保留所有权利。 |
 
 ### 游戏与模拟   (73)
 
